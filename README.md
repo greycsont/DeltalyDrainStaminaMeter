@@ -5,7 +5,6 @@ The mod itself only requires [BepInex](https://thunderstore.io/c/ultrakill/p/Bep
 
 You can change the some settings easily via [PluginConfigurator](https://thunderstore.io/c/ultrakill/p/EternalsTeam/PluginConfigurator/).
 
-
 The 1-R creator/maker : [Smallkloon](https://www.youtube.com/@smallkloon)
 
 The 1-R preview : [Youtube_link](https://www.youtube.com/watch?v=_XpjIXPW4wM&t)
