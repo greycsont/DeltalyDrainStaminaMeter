@@ -1,0 +1,5 @@
+H:\C#Project\DeltalyDrainStaminaMeter\obj\Debug\netstandard2.0\DeltalyDrainStaminaMeter.csproj.AssemblyReference.cache
+H:\C#Project\DeltalyDrainStaminaMeter\obj\Debug\netstandard2.0\DeltalyDrainStaminaMeter.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#Project\DeltalyDrainStaminaMeter\obj\Debug\netstandard2.0\DeltalyDrainStaminaMeter.AssemblyInfoInputs.cache
+H:\C#Project\DeltalyDrainStaminaMeter\obj\Debug\netstandard2.0\DeltalyDrainStaminaMeter.AssemblyInfo.cs
+H:\C#Project\DeltalyDrainStaminaMeter\obj\Debug\netstandard2.0\DeltalyDrainStaminaMeter.csproj.CoreCompileInputs.cache

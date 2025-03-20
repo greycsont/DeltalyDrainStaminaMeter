@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhI48AwgbfLGZGkCxV8XIiDKWtgX1APw9KU3y63TXrEh+nPp+8uEn+iw2/9zv3/YX3tVZV0tZNWV4fmTDRggZw==",
+  "success": true,
+  "projectFilePath": "H:\\C#Project\\DeltalyDrainStaminaMeter\\DeltalyDrainStaminaMeter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asd\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\asd\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\asd\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\asd\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\asd\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\asd\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\asd\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

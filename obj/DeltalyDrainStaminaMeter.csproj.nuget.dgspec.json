@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\C#Project\\DeltalyDrainStaminaMeter\\DeltalyDrainStaminaMeter.csproj": {}
+  },
+  "projects": {
+    "H:\\C#Project\\DeltalyDrainStaminaMeter\\DeltalyDrainStaminaMeter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\C#Project\\DeltalyDrainStaminaMeter\\DeltalyDrainStaminaMeter.csproj",
+        "projectName": "DeltalyDrainStaminaMeter",
+        "projectPath": "H:\\C#Project\\DeltalyDrainStaminaMeter\\DeltalyDrainStaminaMeter.csproj",
+        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
+        "outputPath": "H:\\C#Project\\DeltalyDrainStaminaMeter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "H:\\C#Project\\DeltalyDrainStaminaMeter\\NuGet.Config",
+          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
